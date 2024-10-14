@@ -21,4 +21,8 @@ Make sure you have Python 3 installed on your machine. You also need the followi
 - Allow dynamic input for graph creation.
 - Add more traversal algorithms like Dijkstra’s or A*.
 - Improve exception handling.
+## Output
+<img width="497" alt="Screenshot 2024-10-14 at 8 29 02 AM" src="https://github.com/user-attachments/assets/c98a604a-65bf-4074-9d87-4f6b72c1f5d8">
+<img width="490" alt="Screenshot 2024-10-14 at 8 29 56 AM" src="https://github.com/user-attachments/assets/6657cba9-fe6a-4546-ad1b-3341fc772106">
+
 
